@@ -29,7 +29,7 @@ SwanChain 最近一轮融资在 23 年 1 月 16 号，融资 300 万美元，Bin
 SwanChain 最近推出了 Atom Accelerator Race 计算提供商加速计划，用户可以通过部署边缘计算节点 (ECP) 和雾计算节点 (FCP) 加入计划来瓜分 15,000,000 的 $SWAN 代币收益。
 
 - **ECP** 专注于为网络边缘的近实时应用程序处理数据。 
-[https://github.com/tkcroweth/swan/blob/main/ECP.md](ECP 部署文档)
+[https://github.com/tkcroweth/swan/blob/main/ECP.md](ECP部署文档)
 - **FCP** 通常代表数据中心、大型服务器计算网络或私有云和公共云提供商。它们管理更大的计算任务，并通过使云计算更接近数据来源来增强云计算的功能。
 [https://github.com/tkcroweth/swan/blob/main/FCP.md](FCP部署文档)
 
